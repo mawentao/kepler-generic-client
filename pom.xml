@@ -9,7 +9,7 @@
 
     <properties>
         <!-- spring版本号 -->  
-        <spring.version>4.2.5.RELEASE</spring.version>  
+        <spring.version>5.2.7.RELEASE</spring.version>  
         <!-- kepler版本号 -->  
         <kepler.version>0.0.8-patch-SNAPSHOT</kepler.version>
     </properties>
